@@ -2,7 +2,7 @@
     
     "manifest_version": 2,
     "name": "eTab",
-    "description": "An extension that will provide you with a motivating picture and an inspiring quote whenever you open a new tab in your browser. My first Chrome extension.",
+    "description": "An extension that will provide you with a motivating picture whenever you open a new tab in your browser. My first Chrome extension.",
     "author": "Enej Licina",
     "homepage_url": "http://www.enejlicina.com",
     "version": "1.0",
